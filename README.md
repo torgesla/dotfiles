@@ -19,7 +19,7 @@ These dotfiles assume you already have the following installed:
 To get started, clone the project to your home directory:
 
 ```shell
-git clone git@github.com:flugger/dotfiles.git ~/.dotfiles && export PATH=~/.dotfiles/bin:$PATH
+git clone git@github.com:torgesla/dotfiles.git ~/.dotfiles && export PATH=~/.dotfiles/bin:$PATH
 ```
 
 This will clone this Git repository into `~/.dotfiles`. It will also add the Dotfiles' `bin` folder to the path giving you access to the `dot` command.
